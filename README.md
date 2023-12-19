@@ -9,6 +9,7 @@ Things I did to create this repository.
  + Copied the contents from the page from the repository under titled 'creating new repository command line 1'and the lines are
  
 echo "# new-one" >> README.md
+
 git init
 git add README.md
 git commit -m "first commit"
